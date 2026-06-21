@@ -1,4 +1,4 @@
-# -Developers-Hub-internship-Task-2-Credit-Risk-Prediction
+# -Developers-Hub-internship
 # Task 2: Credit Risk Prediction
 
 ### What I Did
@@ -16,16 +16,6 @@ Finally, I trained a Logistic Regression model to predict loan approval status a
 - Graduate applicants appeared to receive loan approvals more frequently than non-graduates.
 - Handling missing values improved the quality and consistency of the dataset.
 - Credit history was one of the most important factors influencing loan approval decisions.
-
-### Tools Used
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-- Google Colab
 
 ### Conclusion
 
